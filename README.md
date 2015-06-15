@@ -10,7 +10,7 @@ Companies
 * Asana https://eng.asana.com/
 * Atlassian https://developer.atlassian.com/blog/
 * Azavea http://www.azavea.com/blogs/labs/
-* Bandcamp http://bandcamptech.wordpress.com/
+* Bandcamp https://bandcamptech.wordpress.com/
 * BenefitFocus http://engineering.benefitfocus.com/
 * Bigcommerce http://bigeng.io/
 * Bitly http://word.bitly.com/
@@ -25,7 +25,7 @@ Companies
 * Chartbeat http://engineering.chartbeat.com/
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
-* Cloudflare http://blog.cloudflare.com/
+* Cloudflare https://blog.cloudflare.com/
 * Code School https://www.codeschool.com/blog/category/development/
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship http://blog.codeship.com/
@@ -75,9 +75,9 @@ Companies
 * Linkedin https://engineering.linkedin.com/blog
 * Livechat http://developers.livechatinc.com/blog/
 * Medallia http://engineering.medallia.com/blog/
-* Medium http://medium.com/medium-eng
+* Medium https://medium.com/medium-eng
 * MemSQL http://blog.memsql.com/content/engineering/
-* Mixpanel http://code.mixpanel.com
+* Mixpanel https://code.mixpanel.com/
 * Monetate http://engineering.monetate.com/
 * Monsanto http://engineering.monsanto.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
