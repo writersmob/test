@@ -86,13 +86,11 @@ Companies
 * Nextdoor-https://engblog.nextdoor.com/
 * Okta-http://developer.okta.com/blog/
 * OpenTable-http://tech.opentable.com/
-* Optimizely-https://medium.com/nerds-optimizely
 * Oyster-http://tech.oyster.com/
 * Paypal-https://www.paypal-engineering.com/
 * Periscope-https://www.periscope.io/blog/
 * Pinterest-http://engineering.pinterest.com/
 * Polyvore-http://engblog.polyvore.com/
-* Prezi-https://medium.com/prezi-engineering
 * Quora-http://engineering.quora.com/
 * Raizlabs-http://www.raizlabs.com/dev/
 * Rdio-https://algorithms.rdio.com/
