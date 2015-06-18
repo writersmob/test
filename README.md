@@ -17,7 +17,7 @@ Companies
 * AWeber http://engineering.aweber.com/
 * Azavea http://www.azavea.com/blogs/labs/
 * Badoo https://techblog.badoo.com/
-* Bandcamp http://bandcamptech.wordpress.com/
+* Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice http://blog.developer.bazaarvoice.com/
 * BenefitFocus http://engineering.benefitfocus.com/
@@ -38,7 +38,7 @@ Companies
 * Chartbeat http://engineering.chartbeat.com/
 * Clever http://engineering.clever.com/
 * Cloudera http://blog.cloudera.com/blog/
-* Cloudflare http://blog.cloudflare.com/
+* Cloudflare https://blog.cloudflare.com/
 * ClusterHQ https://clusterhq.com/blog/
 * Code School https://www.codeschool.com/blog/category/development/
 * Codementor https://www.codementor.io/tutorial
