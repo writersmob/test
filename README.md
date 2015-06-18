@@ -166,7 +166,6 @@ Companies
 * Strava http://engineering.strava.com/
 * Stripe https://stripe.com/blog
 * Takipi http://blog.takipi.com/
-* TaskRabbit http://tech.taskrabbit.com/
 * theScore http://techblog.thescore.com/
 * Thoughtbot https://robots.thoughtbot.com/
 * ThoughtWorks http://www.thoughtworks.com/insights
