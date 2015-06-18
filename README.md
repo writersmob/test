@@ -62,7 +62,6 @@ Companies
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
 * Fiftythree http://making.fiftythree.com/
-* Finn.no http://tech.finn.no/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Flipkart http://tech-blog.flipkart.net/
