@@ -19,7 +19,6 @@ Companies
 * Badoo https://techblog.badoo.com/
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
-* Bazaarvoice http://blog.developer.bazaarvoice.com/
 * BenefitFocus http://engineering.benefitfocus.com/
 * Bigcommerce http://bigeng.io/
 * Binary Studio http://binary-studio.com/blog/
