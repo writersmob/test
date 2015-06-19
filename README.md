@@ -240,7 +240,7 @@ Companies
 * Gonto http://gon.to/blog/
 * Guido van Rossum http://neopythonic.blogspot.com/
 * High Scalability http://highscalability.com/blog/
-* Ian Miell http://zwischenzugs.wordpress.com/
+* Ian Miell https://zwischenzugs.wordpress.com/
 * Ilya Grigorik https://www.igvita.com/
 * Jake Wharton http://jakewharton.com/blog
 * James Long http://jlongster.com/archive
@@ -278,7 +278,7 @@ Companies
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/
 * Philip Walton http://philipwalton.com/
-* Practicing Ruby http://practicingruby.com
+* Practicing Ruby https://practicingruby.com
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
 * Raymond Hettinger https://rhettinger.wordpress.com/
