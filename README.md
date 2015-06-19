@@ -201,3 +201,101 @@ Companies
 * Zillow https://engineering.zillow.com/
 * Zumba http://tech.zumba.com/
 * Zynga https://zynga.com/blogs/engineering/
+* A List Apart http://alistapart.com/
+* Adam Leventhal http://dtrace.org/blogs/ahl/
+* Addy Osmani http://addyosmani.com/blog/
+* Ajaxian http://ajaxian.com/
+* Alex Russell https://infrequently.org/
+* Allison Kaptur http://akaptur.com/
+* Anders Aarvik http://aarvik.dk/
+* Antirez http://antirez.com/latest/0
+* Armin Ronacher http://lucumr.pocoo.org/
+* Bad Concurrency http://bad-concurrency.blogspot.com/
+* Barry Warsaw http://www.wefearchange.org/
+* Bill the Lizard http://www.billthelizard.com/
+* Blundell's Android Tutorials http://blog.blundell-apps.com/
+* Brandon Rhodes http://rhodesmill.org/brandon/
+* Brendan Eich https://brendaneich.com/
+* Brendan Gregg http://www.brendangregg.com/blog/
+* Carlos Becker http://carlosbecker.com
+* Chris Wellons http://nullprogram.com/
+* Cocoa Is My Girlfriend http://www.cimgf.com/
+* Code Better http://codebetter.com/
+* Codrops http://tympanus.net/codrops/
+* Dan North http://dannorth.net/blog/
+* Daniel Doubrovkine (dB.) http://code.dblock.org/
+* Daily JS http://dailyjs.com/
+* Dave Beazley http://www.dabeaz.com/blog.html
+* Dave Cheney http://dave.cheney.net/
+* David Walsh http://davidwalsh.name/
+* Dean Hume http://deanhume.com/
+* Deborah Digges http://deborah-digges.github.io/
+* Dereuromark http://www.dereuromark.de/
+* Ducode.org https://ducode.org/tag/tutorial
+* Elegant Code http://elegantcode.com/
+* Eli Bendersky http://eli.thegreenplace.net/
+* Evan Tahler http://blog.evantahler.com/
+* Fatih Arslan http://arslan.io/
+* Gleb Bahmutov http://glebbahmutov.com/blog/
+* Gonto http://gon.to/blog/
+* Guido van Rossum http://neopythonic.blogspot.com/
+* High Scalability http://highscalability.com/blog/
+* Ian Miell http://zwischenzugs.wordpress.com/
+* Ilya Grigorik https://www.igvita.com/
+* Jake Wharton http://jakewharton.com/blog
+* James Long http://jlongster.com/archive
+* Jeff Atwood http://blog.codinghorror.com/
+* Joel Spolsky http://www.joelonsoftware.com/
+* John Resig http://ejohn.org/
+* Jon Skeet http://codeblog.jonskeet.uk/
+* Jonathan Dekhtiar http://rss.jonathandekhtiar.eu/
+* Justin Weiss http://www.justinweiss.com/blog/
+* Kent Beck http://www.threeriversinstitute.org/blog/
+* Kyle Kingsbury https://aphyr.com/
+* Lambda the Ultimate http://lambda-the-ultimate.org/
+* Lea Verou http://lea.verou.me/
+* Leonard Lamprecht http://leo.github.io
+* Lerner Consulting Blog http://blog.lerner.co.il/
+* Life Plus Linux http://lifepluslinux.blogspot.in/
+* Marc Plano-Lesay http://enoent.fr
+* Marco Pivetta http://ocramius.github.io/
+* Martin Fowler http://martinfowler.com/
+* Matt Cutts https://www.mattcutts.com/blog/
+* Michael Becker http://beckerfuffle.com/
+* Michaël Gallego http://www.michaelgallego.fr/
+* Mike Ash https://www.mikeash.com/pyblog/
+* Nick Desaulniers https://nickdesaulniers.github.io/
+* Nicolas Liochon http://blog.thislongrun.com/
+* NSHipster http://nshipster.com/
+* Ole Begemann http://oleb.net/blog/
+* Oona Räisänen http://www.windytan.com/
+* Pamela Fox http://www.pamelafox.org/blogposts
+* Pat Shaughnessy http://patshaughnessy.net/
+* Paul Graham http://www.paulgraham.com/articles.html
+* Paul Irish http://www.paulirish.com/
+* Peter Lyons http://peterlyons.com/problog
+* Peter Norvig http://norvig.com/
+* Peter Steinberger http://petersteinberger.com/
+* Peteris Krumins http://www.catonmat.net/blog/
+* Philip Walton http://philipwalton.com/
+* Practicing Ruby http://practicingruby.com
+* Radek Pazdera http://radek.io
+* Radim Řehůřek http://radimrehurek.com/blog/
+* Raymond Chen http://blogs.msdn.com/b/oldnewthing/
+* Raymond Hettinger https://rhettinger.wordpress.com/
+* Real Python https://realpython.com/blog
+* Reginald Braithwaite http://raganwald.com/#essays
+* Regular Geek http://regulargeek.com/
+* Robert C. Martin http://blog.cleancoder.com/
+* Scott Hanselman http://www.hanselman.com/blog/
+* Stephen Colebourne http://blog.joda.org/
+* Steve Yegge http://steve-yegge.blogspot.com/
+* Swift Offical Dev Blog https://developer.apple.com/swift/blog/
+* Swizec Teller http://swizec.com/blog/
+* The Daily WTF http://thedailywtf.com/
+* Vanilla Java http://vanillajava.blogspot.com/
+* Virtuous Code http://devblog.avdi.org/
+* William Kennedy http://www.goinggo.net/
+* Winston Chen http://www.winstonchen.co/
+* Yegor Bugayenko http://www.yegor256.com/
+* Zach Holman http://zachholman.com/
