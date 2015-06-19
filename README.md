@@ -281,7 +281,6 @@ Companies
 * Practicing Ruby http://practicingruby.com
 * Radek Pazdera http://radek.io
 * Radim Řehůřek http://radimrehurek.com/blog/
-* Raymond Chen http://blogs.msdn.com/b/oldnewthing/
 * Raymond Hettinger https://rhettinger.wordpress.com/
 * Real Python https://realpython.com/blog
 * Reginald Braithwaite http://raganwald.com/#essays
