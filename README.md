@@ -120,7 +120,6 @@ Companies
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
-* NPR Apps http://blog.apps.npr.org/
 * Okta http://developer.okta.com/blog/
 * OpenTable http://tech.opentable.com/
 * Optimizely https://medium.com/nerds-optimizely
