@@ -291,7 +291,6 @@ Companies
 * Swizec Teller http://swizec.com/blog/
 * The Daily WTF http://thedailywtf.com/
 * Vanilla Java http://vanillajava.blogspot.com/
-* Virtuous Code http://devblog.avdi.org/
 * William Kennedy http://www.goinggo.net/
 * Winston Chen http://www.winstonchen.co/
 * Yegor Bugayenko http://www.yegor256.com/
