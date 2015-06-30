@@ -51,7 +51,6 @@ Companies
 * DataFox http://eng.datafox.co/
 * DeferPanic https://deferpanic.com/blog/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
-* Docker http://blog.docker.com/category/engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 * Ebay http://www.ebaytechblog.com/
 * Engine Yard https://blog.engineyard.com/
