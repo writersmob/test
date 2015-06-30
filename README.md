@@ -146,7 +146,6 @@ Companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Semaphore CI Community https://semaphoreci.com/community
-* Sensible http://blog.sensible.io/
 * Shape Security http://engineering.shapesecurity.com/
 * Sharethrough https://engineering.sharethrough.com/blog
 * Shopify http://www.shopify.com/technology
