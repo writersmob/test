@@ -113,7 +113,6 @@ Companies
 * Monsanto http://engineering.monsanto.com/
 * Mozilla Automation Team http://planet.mozilla.org/ateam/
 * Moove-it http://blog.moove-it.com/
-* nerdish by nature http://nerdishbynature.com/blog/
 * Netflix http://techblog.netflix.com/
 * New York Times http://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
