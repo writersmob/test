@@ -137,7 +137,6 @@ Companies
 * Redbubble http://artplustech.com/
 * Red Hat https://developerblog.redhat.com
 * Remind http://engineering.remind.com/
-* Rent the Runway http://dresscode.renttherunway.com/blog/
 * Rightscale http://eng.rightscale.com/
 * RisingStack http://blog.risingstack.com/
 * Salesforce https://developer.salesforce.com/blogs/engineering/
