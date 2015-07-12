@@ -184,7 +184,7 @@ Companies
 * Wonga Technology http://tech.wonga.com/
 * XING https://devblog.xing.com/
 * Yahoo http://yahooeng.tumblr.com/
-* Yammer https://eng.yammer.com/blog/
+* Yammer http://eng.yammer.com/blog/
 * Yelp http://engineeringblog.yelp.com/
 * YLD! http://blog.yld.io
 * Zalando https://tech.zalando.com/blog/
